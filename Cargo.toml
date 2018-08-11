@@ -1,0 +1,11 @@
+[package]
+name = "ludum-dare"
+version = "0.1.0"
+authors = ["arundilipan <arundilipan@gmail.com>"]
+
+[dependencies]
+ggez = "0.4"
+warmy = "0.7.3"
+nalgebra = "0.15.0"
+ncollide2d = "0.16.0"
+serde_json = "1.0"
